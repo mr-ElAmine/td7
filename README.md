@@ -63,7 +63,7 @@ La voiture démarre !
 La voiture accélère !
 La voiture s'arrête !
 ```
-#2. constructeur
+# 2. Constructeur
 Un constructeur en Java est une méthode spéciale qui est appelée automatiquement lorsque tu crées une instance (un objet) d'une classe. Son rôle principal est d'initialiser les variables de l'objet et de configurer tout ce qui est nécessaire pour que l'objet soit utilisable.
 
 Voici quelques points importants à retenir sur les constructeurs en Java :
@@ -131,7 +131,7 @@ Année : 2020
 
 Comme tu peux le voir, le constructeur est utilisés pour initialiser les objets de manière appropriée, ce qui rend l'utilisation des objets plus sûre et plus pratique. Plus sûre comment ça ?
 
-#3. Getters et Setters
+# 3. Getters et Setters
 Avant de commencer, on doit voir la déclaration de variable en JAVA. Elle peut se représenter comme ceci:
 ```
 [typeAccess] typeDeVariable nomDeVariable = valeur;
